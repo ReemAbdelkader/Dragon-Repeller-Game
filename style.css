@@ -83,10 +83,6 @@ button {
         font-size: 14px;
         line-height: 20px;
     } 
-    body {
-        background-size: cover; 
-        background-position: center center; 
-    }
 }
 @media screen and (max-width: 740px){
     #game {
