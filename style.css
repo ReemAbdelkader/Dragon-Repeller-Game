@@ -67,7 +67,7 @@ button {
 }
 @media screen and (max-width: 980px){
     .stat {
-        font-size: 20px;
+        font-size: 25px;
     }
     #game {
         width: 90%;
