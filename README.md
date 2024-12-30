@@ -28,4 +28,4 @@ The ultimate goal is to defeat the Dragon, but players will need to carefully ma
 
 # Demo
 
-"Feel free to try out and enjoy the game by accessing it here."
+"Feel free to try out and enjoy the game by accessing it [here](https://reemabdelkader.github.io/Dragon-Repeller-Game/) "
